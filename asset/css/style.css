@@ -25,6 +25,19 @@ a:hover {
     cursor:pointer;
 }
 
+.updated:hover
+{
+    color:blue;
+ text-decoration:overline;
+    cursor:pointer;
+}
+.updated
+{
+    color:blue;
+ text-decoration:underline;
+    cursor:pointer;
+}
+
 .imgBorder
 {
     width: 300px;
