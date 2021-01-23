@@ -29,4 +29,4 @@ Project is created with:
 ![image](./asset/images/screenshot.png)
 ## Link
 
-[Portfolio](https://panwaramita.github.io/Amita_Portfolio/)
+[Portfolio](https://panwaramita.github.io/Updated-Portfolio/)
