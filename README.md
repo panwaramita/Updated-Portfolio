@@ -1,4 +1,4 @@
-# My Portfolio
+# Portfolio
 
 ## Contents
 
@@ -29,4 +29,4 @@ Project is created with:
 ![image](./asset/images/screenshot.png)
 ## Link
 
-[My Portfolio](https://panwaramita.github.io/Amita_Portfolio/)
+[Portfolio](https://panwaramita.github.io/Amita_Portfolio/)
